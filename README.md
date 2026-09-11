@@ -263,6 +263,8 @@ python -m venv venv
 source venv/bin/activate        # venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
+## Author
+Akshay Salunke | AWS Solutions Architect | MSc Financial Technology | [LinkedIn]https://linkedin.com/in/akshayksalunke
 
 Open `notebook/Mutual_Fund_Analysis_and_Prediction.ipynb`, place a copy of
 the source data (see Dataset, above) alongside it, and run top to bottom.
