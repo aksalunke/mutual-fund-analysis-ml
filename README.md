@@ -270,3 +270,5 @@ Originally developed on Python 3.9.
 
 ## Author
 Akshay Salunke | AWS Solutions Architect | MSc Financial Technology | [LinkedIn]https://linkedin.com/in/akshayksalunke
+
+© 2026 Akshay Salunke. All rights reserved. This code is shared for portfolio and demonstration purposes only; no license is granted for reuse, modification, or redistribution.
